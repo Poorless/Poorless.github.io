@@ -1,0 +1,30 @@
+h1{
+	width: 100%;
+	height:36px;
+	background-color: #aaa;
+	font-size: 24px;
+	color: #fff;
+	padding:20px;
+	margin:0;
+}
+.list{
+	border: 1px solid #eee;
+	height: 150px;
+}
+h2{
+	background-color: #ccc;
+	width: 150px;
+	height: 150px;
+	margin:0;
+	text-align: center;
+	line-height: 150px;
+	float: left; 
+}
+p span{
+	font-weight: bold; 
+}
+
+div p,h3{
+	display: inline-block;
+	margin: 20px 50px 0 20px;
+}

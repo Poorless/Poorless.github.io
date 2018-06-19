@@ -1,0 +1,13 @@
+p span{
+	font-weight: bold;
+}
+div p{
+	display: inline;
+	margin-right: 80px;
+}
+div{
+	margin-bottom: 50px;
+}
+h2 h3:first-child{
+	margin-top: 5px;
+}
