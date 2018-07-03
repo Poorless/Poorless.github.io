@@ -122,6 +122,13 @@ li a:hover{
 	width: 40%;
 	padding: 3%;
 }
+.p3-img{
+	position: relative;
+	width: 60%;
+}
+.p3-img img{
+	width: 100%;
+}
 
 @media screen and (max-width: 1295px){
 	.p3-1,.p3-2,.p3-3{
@@ -142,9 +149,8 @@ li a:hover{
 }
 }
 
-.p3-img{
-	position: relative;
-}
+
+
 .modal-content{
 	background-color: rgba(255, 255, 255, 0.85);
 	filter:(2px);
