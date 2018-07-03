@@ -274,7 +274,7 @@ h3{
 footer{
 	height: 100px;
 	background: url(../images/footer-bg.jpg);
-	
+	margin-top: 50px;
 }
 
 footer p{
